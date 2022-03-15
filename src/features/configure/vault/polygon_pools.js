@@ -296,8 +296,8 @@ export const polygonPools = [
     tokenDecimals: 18,
     tokenDescriptionUrl: '#',
     earnedToken: 'mooQuickSwapORBS-USDC',
-    earnedTokenAddress: '0x775965D328FD46b51595E7d711c6B563CD4eFCF4',
-    earnContractAddress: '0x775965D328FD46b51595E7d711c6B563CD4eFCF4',
+    earnedTokenAddress: '0x333F81C94e388002aAc75ccF23Ab4865B52D7a10',
+    earnContractAddress: '0x333F81C94e388002aAc75ccF23Ab4865B52D7a10',
     pricePerFullShare: 1,
     tvl: 0,
     oracle: 'lps',
@@ -321,7 +321,7 @@ export const polygonPools = [
       'https://quickswap.exchange/#/swap?inputCurrency=0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174&outputCurrency=0x614389EaAE0A6821DC49062D56BDA3d9d45Fa2ff',
     addLiquidityUrl:
       'https://quickswap.exchange/#/add/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/0x614389EaAE0A6821DC49062D56BDA3d9d45Fa2ff',
-    createdAt: 1645091761,
+    createdAt: 1647302895,
   },
   {
     id: 'quick-usdc-awx',
@@ -332,8 +332,8 @@ export const polygonPools = [
     tokenDecimals: 18,
     tokenDescriptionUrl: '#',
     earnedToken: 'mooQuickSwapAWX-USDC',
-    earnedTokenAddress: '0x775965D328FD46b51595E7d711c6B563CD4eFCF4',
-    earnContractAddress: '0x775965D328FD46b51595E7d711c6B563CD4eFCF4',
+    earnedTokenAddress: '0xEB9c526519d1433A2B41042aB5aeB386144f0B64',
+    earnContractAddress: '0xEB9c526519d1433A2B41042aB5aeB386144f0B64',
     pricePerFullShare: 1,
     tvl: 0,
     oracle: 'lps',
@@ -357,7 +357,7 @@ export const polygonPools = [
       'https://quickswap.exchange/#/swap?inputCurrency=0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174&outputCurrency=0x56A0eFEFC9F1FBb54FBd25629Ac2aA764F1b56F7',
     addLiquidityUrl:
       'https://quickswap.exchange/#/add/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/0x56A0eFEFC9F1FBb54FBd25629Ac2aA764F1b56F7',
-    createdAt: 1645091761,
+    createdAt: 1647307701,
   },
   {
     id: 'quick-wmatic-tower',
@@ -368,8 +368,8 @@ export const polygonPools = [
     tokenDecimals: 18,
     tokenDescriptionUrl: '#',
     earnedToken: 'mooQuickSwapTOWER-MATIC',
-    earnedTokenAddress: '0x775965D328FD46b51595E7d711c6B563CD4eFCF4',
-    earnContractAddress: '0x775965D328FD46b51595E7d711c6B563CD4eFCF4',
+    earnedTokenAddress: '0x9b94BD561e60f4b8E6698a065ab6890c45Fa469c',
+    earnContractAddress: '0x9b94BD561e60f4b8E6698a065ab6890c45Fa469c',
     pricePerFullShare: 1,
     tvl: 0,
     oracle: 'lps',
@@ -393,7 +393,7 @@ export const polygonPools = [
       'https://quickswap.exchange/#/swap?inputCurrency=0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270&outputCurrency=0x2bC07124D8dAc638E290f401046Ad584546BC47b',
     addLiquidityUrl:
       'https://quickswap.exchange/#/add/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/0x2bC07124D8dAc638E290f401046Ad584546BC47b',
-    createdAt: 1645091761,
+    createdAt: 1647299035,
   },
   {
     id: 'quick-wsg-eth',
@@ -404,8 +404,8 @@ export const polygonPools = [
     tokenDecimals: 18,
     tokenDescriptionUrl: '#',
     earnedToken: 'mooQuickSwapWSG-ETH',
-    earnedTokenAddress: '0x775965D328FD46b51595E7d711c6B563CD4eFCF4',
-    earnContractAddress: '0x775965D328FD46b51595E7d711c6B563CD4eFCF4',
+    earnedTokenAddress: '0x4D3c50B72ee973F999D162A00C32Fc7A6E41d0cd',
+    earnContractAddress: '0x4D3c50B72ee973F999D162A00C32Fc7A6E41d0cd',
     pricePerFullShare: 1,
     tvl: 0,
     oracle: 'lps',
@@ -429,7 +429,7 @@ export const polygonPools = [
       'https://quickswap.exchange/#/swap?inputCurrency=0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619&outputCurrency=0x3C1BB39bb696B443a1D80BB2b3a3d950Ba9DEE87',
     addLiquidityUrl:
       'https://quickswap.exchange/#/add/0x3C1BB39bb696B443a1D80BB2b3a3d950Ba9DEE87/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619',
-    createdAt: 1645091761,
+    createdAt: 1645090473,
   },
   {
     id: 'quick-wmatic-wrld',
@@ -440,8 +440,8 @@ export const polygonPools = [
     tokenDecimals: 18,
     tokenDescriptionUrl: '#',
     earnedToken: 'mooQuickSwapWRLD-MATIC',
-    earnedTokenAddress: '0x775965D328FD46b51595E7d711c6B563CD4eFCF4',
-    earnContractAddress: '0x775965D328FD46b51595E7d711c6B563CD4eFCF4',
+    earnedTokenAddress: '0x5Ca1B1A477858AEce3899AE847D5997362b8475d',
+    earnContractAddress: '0x5Ca1B1A477858AEce3899AE847D5997362b8475d',
     pricePerFullShare: 1,
     tvl: 0,
     oracle: 'lps',
@@ -465,7 +465,7 @@ export const polygonPools = [
       'https://quickswap.exchange/#/swap?inputCurrency=0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270&outputCurrency=0xD5d86FC8d5C0Ea1aC1Ac5Dfab6E529c9967a45E9',
     addLiquidityUrl:
       'https://quickswap.exchange/#/add/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/0xD5d86FC8d5C0Ea1aC1Ac5Dfab6E529c9967a45E9',
-    createdAt: 1645091761,
+    createdAt: 1647292639,
   },
   {
     id: 'sushi-weth-sx',
