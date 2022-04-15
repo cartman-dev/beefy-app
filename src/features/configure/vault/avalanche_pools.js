@@ -106,8 +106,8 @@ export const avalanchePools = [
   },
   {
     id: 'joe-usdt-wavax',
-    name: 'USDt-AVAX LP',
-    token: 'USDt-AVAX JLP',
+    name: 'USDT-AVAX LP',
+    token: 'USDT-AVAX JLP',
     tokenDescription: 'Trader Joe',
     tokenAddress: '0xbb4646a764358ee93c2a9c4a147d5aDEd527ab73',
     tokenDecimals: 18,
@@ -123,7 +123,7 @@ export const avalanchePools = [
     depositsPaused: false,
     status: 'active',
     platform: 'Trader Joe',
-    assets: ['USDt', 'AVAX'],
+    assets: ['USDT', 'AVAX'],
     risks: [
       'COMPLEXITY_LOW',
       'BATTLE_TESTED',
@@ -5032,7 +5032,7 @@ export const avalanchePools = [
     status: 'eol',
     retireReason: 'rewards',
     platform: 'Lydia',
-    assets: ['LYD', 'USDT'],
+    assets: ['LYD', 'USDTo'],
     addLiquidityUrl:
       'https://www.lydia.finance/#/add/0x4c9b4e1ac6f24cde3660d5e4ef1ebf77c710c084/0xde3a24028580884448a5397872046a019649b084',
     buyTokenUrl:
@@ -5122,7 +5122,7 @@ export const avalanchePools = [
     depositsPaused: true,
     status: 'eol',
     platform: 'OliveSwap',
-    assets: ['OLIVE', 'USDT'],
+    assets: ['OLIVE', 'USDTo'],
     addLiquidityUrl:
       'https://swap.olive.cash/#/add/0xde3A24028580884448a5397872046a019649b084/0x617724974218A18769020A70162165A539c07E8a',
     buyTokenUrl:
@@ -5393,7 +5393,7 @@ export const avalanchePools = [
     status: 'eol',
     retireReason: 'rewards',
     platform: 'Pangolin',
-    assets: ['USDT', 'PNG'],
+    assets: ['USDTo', 'PNG'],
     addLiquidityUrl:
       'https://app.pangolin.exchange/#/add/0x60781C2586D68229fde47564546784ab3fACA982/0xde3A24028580884448a5397872046a019649b084',
     buyTokenUrl:
@@ -5447,7 +5447,7 @@ export const avalanchePools = [
     status: 'eol',
     retireReason: 'rewards',
     platform: 'Pangolin',
-    assets: ['USDT', 'AVAX'],
+    assets: ['USDTo', 'AVAX'],
     addLiquidityUrl:
       'https://app.pangolin.exchange/#/add/AVAX/0xde3A24028580884448a5397872046a019649b084',
     buyTokenUrl:
