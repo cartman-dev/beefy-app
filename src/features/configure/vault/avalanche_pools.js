@@ -137,7 +137,7 @@ export const avalanchePools = [
       'https://traderjoexyz.com/pool/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7/AVAX',
     buyTokenUrl:
       'https://traderjoexyz.com/trade?outputCurrency=0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7#/',
-    createdAt: 1649323779,
+    createdAt: 1649966386,
   },
   {
     id: 'curve-avax-f-3pool',
